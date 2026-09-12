@@ -1,0 +1,19 @@
+{
+  "game": "Return-to-Monkey-Island-v1-0-1-patched",
+  "generated_by": "apk2source",
+  "provenance": {
+    "package": "com.devolverdigital.com.rtmi",
+    "run_id": "34681019864"
+  },
+  "stats": {
+    "skeletons": 0,
+    "json": 0,
+    "skel": 0,
+    "atlas": 0,
+    "textures": 0,
+    "bytes": 0,
+    "complete": 0,
+    "incomplete": 0
+  },
+  "skeletons": []
+}
